@@ -44,7 +44,7 @@ public class Main extends Application {
         WebView webView = new WebView();
         WebEngine webEngine = webView.getEngine();
         webView.getEngine().setUserStyleSheetLocation(getClass().getResource("style.css").toExternalForm());
-        webEngine.loadContent("<html><iframe width=\"100%\" height=\"100%\" " + vid + " frameborder=\"0\" allowfullscreen></iframe></html>");
+        webEngine.loadContent(vid);
         s2.setOnCloseRequest(new EventHandler<WindowEvent>(){
             @Override
             public void handle(WindowEvent event) {
