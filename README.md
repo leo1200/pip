@@ -4,6 +4,7 @@ pip is a picture in picture viewer for YouTube, DTube and some other platforms.
 
 Usage:
 1. Download & open pip_stable.jar (for experimental features use pip.jar)
+
 YouTube:
 1. copy the link of a video & press start / search requests like "kurzgesagt addiction" are also possible.
 
