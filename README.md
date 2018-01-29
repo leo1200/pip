@@ -3,15 +3,17 @@
 pip is a picture in picture viewer for YouTube, DTube and some other platforms.
 
 Usage:
-1. Download & open pip_stable.jar (for experimental features use pip.jar)
+1. Download & open pip.jar
 YouTube:
 1. copy the link of a video & press start / search requests like "kurzgesagt addiction" are also possible.
+2. press B to make the window bezel-less (pressing a second time will bring back the bezel)
 
 DTube:
 1. open the DTube video in your broswer
 2. right-click the video
 3. select "copy video address"
 4. paste the address into the textfield & press start
+5. press B to make the window bezel-less (pressing a second time will bring back the bezel)
 
 Build from source:
 1. create a new JavaFx project in InelliJ
