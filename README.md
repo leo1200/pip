@@ -14,13 +14,4 @@ DTube:
 3. select "copy video address"
 4. paste the address into the textfield & press start
 
-Build from source:
-1. create a new JavaFx project in InelliJ
-2. replace the sample folder with the sample folder of this GitHub repository
-3. go to file --> project structure --> artifacts --> plus (symbol) --> jar --> from modules with dependencies... --> selext the main class --> ok
-4. add output directory
-5. press ok
-6. go to build --> build artifacts
-7. the jar will be in the output folder you have previously selected
-
-// upvote on steem (iapetos)
+![alt text](https://lnv3hw.db.files.1drv.com/y4mTzPK8E80FZ4ni4q5zlxWwx6Tm_5aFhPTURL8ICtz7hW2_MedW82dBobN2qEbDD67qJd29N-7LC3D5Gt2tntKzaksS4ZQitdrMADrf6qhpSFXR5XbDgDRdf1wouBv6hfpsEi2VyJ5e2wMl6fYkZHbFS6SXYFKzY_QtYBHvE7BYzrRJC66x6CBDRF8lnm3wdGYhgS9jY9DYaMH_cybdlkn-w)
